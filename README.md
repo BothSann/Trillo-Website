@@ -34,6 +34,8 @@ To view or modify this project locally:
    ```bash
    git clone https://github.com/BothSann/trillo-website.git
 
+---
+
 ## 🛠️ Built By
 
 This project was built by **THANN SOPHEAKBOTH** as part of an online learning course by [Jonas Schmedtmann](https://codingheroes.io/).
