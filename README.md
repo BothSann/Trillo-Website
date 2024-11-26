@@ -2,6 +2,17 @@
 
 Trillo is a fictional, modern travel booking platform where users can search and book hotels, flights, car rentals, and tours effortlessly. This project features a fully responsive design and highlights a user-friendly interface for an engaging travel booking experience.
 
+## 🖼️ Screenshots
+
+### Screenshot 1
+![Screenshot 1](screenshots/screenshot-3.PNG)
+
+### Screenshot 2
+![Screenshot 2](screenshots/screenshot-1.PNG)
+
+### Screenshot 3
+![Screenshot 3](screenshots/screenshot-2.PNG)
+
 ## 🌟 Features
 
 - **Comprehensive Travel Services**: Search for hotels, book flights, rent cars, and plan tours all in one place.
