@@ -2,6 +2,12 @@
 
 Trillo is a fictional, modern travel booking platform where users can search and book hotels, flights, car rentals, and tours effortlessly. This project features a fully responsive design and highlights a user-friendly interface for an engaging travel booking experience.
 
+## 🌐 Live Demo|
+
+Check out the live version of the website at: [trillo](https://bothsann.github.io/trillo-website/)
+
+---
+
 ## 🖼️ Screenshots
 
 ### Screenshot 1
